@@ -1,7 +1,7 @@
 torch
 torchvision
 scikit-learn
-opencv-python-contrib
+opencv-contrib-python
 numpy
 pandas
 matplotlib
